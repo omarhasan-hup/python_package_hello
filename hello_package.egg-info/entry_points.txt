@@ -1,0 +1,4 @@
+[console_scripts]
+hi = hello.hello:main
+hi2 = hello.hello:hello2
+hi3 = another_hi.another:new_hi

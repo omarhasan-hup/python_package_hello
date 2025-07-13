@@ -1,0 +1,1 @@
+from .hello import main,hello2 # this is the export of the submodule hello.py to export all I want to be exproted with just importing th package 

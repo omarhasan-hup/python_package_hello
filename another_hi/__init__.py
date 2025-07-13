@@ -1,0 +1,1 @@
+from .another import new_hi  # This the export of the new_hi function to be exported with just imorting the package 
